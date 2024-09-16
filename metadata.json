@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2024-09-16",
-      "codified-date": "2021-07-01",
+      "codified-date": "2021-07-07",
       "platform": {
         "reproducible": "true",
         "version": "2.14.1"
@@ -14,7 +14,7 @@
           "name": "cityofsanmateo/law-xml"
         },
         {
-          "commit": "acf13aa6ceead06bd5e8dcd2f04bb777c9475c20",
+          "commit": "86711d190f85eeffec8256d43aca43e737ac7882",
           "name": "cityofsanmateo/law-xml-codified"
         }
       ]
