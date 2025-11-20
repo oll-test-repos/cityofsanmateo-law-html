@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2025-11-20",
+      "codified-date": "2018-03-05",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.17.25"
+      },
+      "publication": "publication/2025-11-20",
+      "repositories": [
+        {
+          "commit": "6965315772a8d7b633213459b1ae02dfbd8f2c18",
+          "name": "cityofsanmateo/law-xml"
+        },
+        {
+          "commit": "ed4b3b8d5997794cf572755a431d2052973a633c",
+          "name": "cityofsanmateo/law-xml-codified"
+        }
+      ],
+      "search": {
+        "version": "v2"
+      }
+    },
+    "canonical-urls": {
+      "html": {
+        "current": "https://law.cityofsanmateo.org",
+        "historical": {
+          "historic": {
+            "end": "2022-12-21",
+            "text": "https://sanmateo.ca.us.open.law"
+          }
+        }
+      },
+      "html-bulk": "https://github.com/cityofsanmateo/law-html",
+      "law-git": "https://github.com/cityofsanmateo/law.git",
+      "static-assets": "https://github.com/cityofsanmateo/law-static-assets",
+      "xml-bulk": "https://github.com/cityofsanmateo/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "Browse the laws and code of San Mateo",
+    "history-start": "2018-03-05"
+  }
+}
